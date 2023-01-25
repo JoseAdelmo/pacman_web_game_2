@@ -1,4 +1,4 @@
-Clique aqui para jogar: https://joseadelmo.github.io/pacman_web_game/
+Clique aqui para jogar: https://joseadelmo.github.io/pacman_web_game_2/
 
 Controls: arrow keys 
 
